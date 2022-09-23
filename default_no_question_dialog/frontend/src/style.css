@@ -1,0 +1,27 @@
+html {
+    background-color: rgba(27, 38, 54, 1);
+    text-align: center;
+    color: white;
+}
+
+body {
+    margin: 0;
+    color: white;
+}
+
+#app {
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.btn {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+}
