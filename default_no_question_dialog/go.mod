@@ -1,4 +1,4 @@
-module changeme
+module github.com/wailsapp/examples/default_no_question_dialog
 
 go 1.18
 
