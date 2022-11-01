@@ -1,0 +1,13 @@
+// 基本的页面设置，如果你想自定义也可以移除
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*设置图片无法被选择,可以直接移除,*/
+.el-image{
+    pointer-events: none;
+    user-select: none;
+}
+
